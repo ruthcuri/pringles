@@ -1,0 +1,32 @@
+html,body{
+	height: 100%;
+	width: 100%;
+}
+a{
+	padding: 10px 30px;
+    font-size: 2em;
+    color: #fff;
+}
+nav{
+	background-color: black;
+	position: absolute;
+	display: inline-flex;
+	 margin: 50px 0;
+}
+.header{
+	display: inline-flex;
+}
+#promocion{
+	background-image: url("../images/fondo.JPEG");
+	height: 100%;
+}
+.logo-pringles{
+	    width: 60%;
+    margin: 0 40px;
+}
+.banner{
+	width: 100%;
+}
+.photo-item{
+	width: 100%;
+}
